@@ -1,4 +1,3 @@
-essai23fevrier2014
+python et chinois
 ==================
-
-efface-moi
+à décrire plus précisément
