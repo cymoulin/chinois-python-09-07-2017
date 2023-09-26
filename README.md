@@ -1,3 +1,3 @@
 python et chinois
 ==================
-à décrire plus précisément
+Fait l'inventaire des caractères chinois dans 活着 (à vérifier).
